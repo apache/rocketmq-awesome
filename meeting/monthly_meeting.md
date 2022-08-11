@@ -28,11 +28,16 @@ https://meeting.tencent.com/dm/JATRrZAZGM6y
 Attendee:
 
 #### 议题&纪要
-RocketMQ 定时消息分享， by 季俊涛
-RocketMQ rsqldb 新功能演示  by 倪泽
-RocketMQ Client 5.0版本demo。by 艾阳坤
-RocketMQ Schema registry社区任务分享 by 许奕斌
+RocketMQ 定时消息分享， by 季俊涛  
 
+RocketMQ rsqldb 新功能演示  by 倪泽  repo： https://github.com/alibaba/rsqldb
+
+RocketMQ Client 5.0版本demo。by 艾阳坤  https://github.com/apache/rocketmq-clients
+
+RocketMQ Schema registry社区任务分享 by 许奕斌  https://github.com/apache/rocketmq/wiki/RIP-42-Support-Schema-Registry
+
+#### 会议视频
+[RocketMQ中国开发者社区月会-08](https://meeting.tencent.com/v2/cloud-record/share?id=961b5dde-c503-47d7-a389-2fdbc67a614c&from=3)
 
 
 2022-06-16
