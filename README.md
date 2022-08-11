@@ -5,7 +5,10 @@ Something around Apache RocketMQ
 
 ----------
 ## Apache RocketMQ Community
-* [RocketMQ Community Projects](https://github.com/apache/rocketmq-externals)
+* [RocketMQ](https://github.com/apache/rocketmq)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=apache/rocketmq&type=Date)](https://star-history.com/#pache/rocketmq&Date)
+
 
 ----------
 ## Contact us
