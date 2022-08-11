@@ -7,8 +7,11 @@ Something around Apache RocketMQ
 ## Apache RocketMQ Community
 * [RocketMQ](https://github.com/apache/rocketmq)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=apache/rocketmq&type=Date)](https://star-history.com/#pache/rocketmq&Date)
+[![RocketMQ Star History](https://api.star-history.com/svg?repos=apache/rocketmq&type=Date)](https://star-history.com/#pache/rocketmq&Date)
 
+* [RocketMQ-Externals](https://github.com/apache/rocketmq-externals)
+
+[![Externals Star History](https://api.star-history.com/svg?repos=apache/rocketmq-externals&type=Date)](https://star-history.com/#pache/rocketmq-externals&Date)
 
 ----------
 ## Contact us
