@@ -36,6 +36,12 @@ RocketMQ Client 5.0版本demo。by 艾阳坤  https://github.com/apache/rocketmq
 
 RocketMQ Schema registry社区任务分享 by 许奕斌  https://github.com/apache/rocketmq/wiki/RIP-42-Support-Schema-Registry
 
+#### 待办事项
+- 整理压测的文档， 摸底timerlog的性能， 压测结果通过邮件形式，在原RIP上回复Dev邮件列表，在PR上同步更新。@季俊涛
+- 基于readme文档演示成功，汇总剩余任务并发布到社区 @倪泽
+- 任务拆解后提交issue，包括SchemaStorageInfo（与序列化协议相关的存储，多协议支持(json,protobuf，thrift等),生态任务关联 @许奕斌
+- 对齐kafka schema的ReferenceBy，支持一个schema与多个subject的绑定/解绑, @张鑫认领
+
 #### 会议视频
 [RocketMQ中国开发者社区月会-08](https://meeting.tencent.com/v2/cloud-record/share?id=961b5dde-c503-47d7-a389-2fdbc67a614c&from=3)
 
