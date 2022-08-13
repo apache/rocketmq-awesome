@@ -12,3 +12,4 @@ Before you can post a message to a mailing list, you need to subscribe to the li
 - Send an email without any contents or subject to listname-subscribe@rocketmq.apache.org. (replace listname with dev, user ..)
 - Wait till you receive an email with the subject “confirm subscribe to listname@rocketmq.apache.org”. Reply to that email, without editing the subject or including any contents
 - Wait till you receive an email with the subject “WELCOME to listname@rocketmq.apache.org”.
+- Now, you can send/receive mails to/from the mailing list.
