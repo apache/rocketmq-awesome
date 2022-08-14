@@ -16,7 +16,7 @@ Before you can post a message to a mailing list, you need to subscribe to the li
 
 ## Developers Dingtalk Group
 ### Apache RocketMQ Group 1
-![image](https://user-images.githubusercontent.com/16487356/184495395-b85f2b0b-1308-4fd3-8b87-e9e2e8d0848e.png)
-
+<img src="https://user-images.githubusercontent.com/16487356/184495395-b85f2b0b-1308-4fd3-8b87-e9e2e8d0848e.png" width="50%" height="50%" />
 ### Apache RocketMQ Group 2
-![image](https://user-images.githubusercontent.com/16487356/184495419-60f059f2-20db-4f2b-b4d8-456be08ac30c.png)
+<img src="https://user-images.githubusercontent.com/16487356/184495419-60f059f2-20db-4f2b-b4d8-456be08ac30c.png" width="50%" height="50%" />
+
