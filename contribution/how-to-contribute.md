@@ -1,3 +1,9 @@
+## How to contribute
+Apache RocketMQ is developed by a friendly and open community. Everybody is warmly welcome to join the community and contribute to Apache RocketMQ. 
+
+There are several ways contribute to Apache RocketMQ including file bug reports, joining discussions on the mailing lists, proposing new features,  contributing code or documentation, improving the website, or testing release candidates and so on.
+
+
 ## File a bug report
 Please let us know if you experienced a problem with RocketMQ and file a bug report. Open [Github Issue](https://github.com/apache/rocketmq/issues) and click on the New issue.
 
