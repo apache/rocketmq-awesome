@@ -40,3 +40,8 @@ As a result, it would be very helpful yet challenging if you could provide an is
    - [sub-task1-issue-number](example_sub_issue1_link_here): sub-task1 description here, 
    - [sub-task2-issue-number](example_sub_issue2_link_here): sub-task2 description here,
    - ...
+
+## Discuss on the mailing lists
+Before you can post a message to a mailing list, you need to subscribe to the list first. 
+
+Try to [subscribe mailing list from here](https://github.com/apache/rocketmq-awesome/blob/master/contribution/how-to-contant-us.md).
