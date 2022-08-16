@@ -14,7 +14,7 @@ Apache RocketMQ 是一款由阿里巴巴开源的低延迟、高并发、高可�
 
   Apache RocketMQ 作为云原生消息平台，覆盖应用异步解耦、削峰填谷、数据集成、轻量级实时计算等场景，帮助企业实现高性能、高可用、可伸缩和最终一致性架构，此外，RocketMQ 提供了延时消息、顺序消息、事务消息、消息过滤等丰富的消息类型，便于开发者实现业务需求。
 
-  Apache RocketMQ 生态丰富，不仅完成了 ServiceMesh、Serverless、Operator、Promethus 等一系列云原生热点技术的整合，同时提供了丰富的 connector 用于异构数据传输，此外与大数据产品包括 Flink，spark 在内的多款产品做了完整集成；2021 年，Apache RocketMQ 5.0 发布，同时推出了全新 rocketmq-streams 轻量级实时计算引擎，满足开发者轻量级边缘端实时计算需求。
+  Apache RocketMQ 生态丰富，不仅完成了 ServiceMesh、Serverless、Operator、Promethus 等一系列云原生热点技术的整合，同时提供了丰富的 connector 用于异构数据传输，此外与大数据产品包括 Flink，Spark 在内的多款产品做了完整集成；2022 年，Apache RocketMQ 5.0 发布，同时推出了全新 rocketmq-streams 轻量级实时计算引擎，满足开发者轻量级边缘端实时计算需求。
 
 ### 社区项目
 [Apache RocketMQ CPP 客户端轨迹动态降级策略的设计与实现](https://summer-ospp.ac.cn/#/org/prodetail/228ad0043) 
